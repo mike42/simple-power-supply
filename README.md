@@ -19,3 +19,7 @@ It is designed to sit on a desk, and may be assembled to deliver either a fixed 
 | 1    | 1k resistor                     | R1           |                                                                                              |
 | 1    | SPDT switch 2.54mm lead spacing | SW1          | [SparkFun COM-00102](https://au.mouser.com/ProductDetail/474-COM-00102)                      |
 | 1    | L7805 Regulator                 | U1           | [STMicroelectronics L7805ABV](https://au.mouser.com/ProductDetail/511-L7805ABV)              |
+
+## Licensing 
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
